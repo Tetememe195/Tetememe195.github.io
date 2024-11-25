@@ -1,63 +1,62 @@
 <!DOCTYPE html>
 <html lang="sv">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Poem '16 Maj 1973' by Wisława Szymborska.">
+    <meta name="description" content="Poem '16 Maj 1973' by Wisława Szymborska">
     <meta name="author" content="Wisława Szymborska">
+    <meta name="keywords" content="Wisława Szymborska, 16 Maj 1973, poem, dikt, Swedish poetry">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>16 Maj 1973 av Wisława Szymborska</title>
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
+            background-color: #f9f9f9;
             color: #333;
             margin: 0;
             padding: 0;
             line-height: 1.6;
-            text-align: center;
         }
 
         header {
             background-color: #4CAF50;
             color: white;
-            padding: 15px;
+            text-align: center;
+            padding: 10px 0;
         }
 
-        h1 {
+        header h1 {
             margin: 0;
             font-size: 2.5em;
         }
 
-        h2 {
-            font-size: 1.5em;
-            margin-top: 0.5em;
-        }
-
-        .content {
+        main {
+            max-width: 900px;
+            margin: 20px auto;
             padding: 20px;
-            max-width: 800px;
-            margin: auto;
             background-color: white;
-            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
             border-radius: 8px;
         }
 
-        .poem {
+        h2 {
+            font-size: 1.8em;
+            margin-bottom: 15px;
+            color: #4CAF50;
+        }
+
+        p {
             font-size: 1.2em;
-            margin-top: 20px;
-            text-align: left;
-            white-space: pre-wrap;
-            word-wrap: break-word;
+            margin: 15px 0;
+            white-space: pre-wrap; /* Keeps the formatting of the poem */
         }
 
         footer {
+            text-align: center;
+            padding: 10px 0;
             background-color: #333;
             color: white;
-            padding: 10px;
             margin-top: 20px;
-            text-align: center;
         }
 
         a {
@@ -70,81 +69,76 @@
         }
     </style>
 </head>
-
 <body>
 
     <header>
-        <h1>16 Maj 1973</h1>
-        <h2>av Wisława Szymborska</h2>
+        <h1>16 Maj 1973 av Wisława Szymborska</h1>
     </header>
 
-    <div class="content">
-        <div class="poem">
-            Himmel
+    <main>
+        <p>
+            Vad jag gjorde – vet jag inte.<br>
+            Jag andades och åt.<br>
+            Jag gick, jag stannade.<br>
+            Himlen var nära, men jag såg inte upp.<br><br>
 
-            Vad jag gjorde – vet jag inte.  
-            Jag andades och åt.  
-            Jag gick, jag stannade.  
-            Himlen var nära, men jag såg inte upp.
+            Jag var där, men inte jag.<br>
+            Frågorna blev fler.<br>
+            Svaren drunknade i tystnaden.<br><br>
 
-            Jag var där, men inte jag.  
-            Frågorna blev fler.  
-            Svaren drunknade i tystnaden.
+            Ljuset bröts, speglar krossades.<br>
+            Var var himlen då?<br>
+            Var var tiden?<br><br>
 
-            Ljuset bröts, speglar krossades.  
-            Var var himlen då?  
-            Var var tiden?
+            Det hade känts lättare att tänka<br>
+            att jag varit död ett tag.<br>
+            Tiden tycktes svinna bort,<br>
+            men jag fortsatte ändå.<br><br>
 
-            Det hade känts lättare att tänka  
-            att jag varit död ett tag.  
-            Tiden tycktes svinna bort,  
-            men jag fortsatte ändå.
+            Var jag här?<br>
+            Jag var här, men det var inget kvar.<br>
+            Att vara var ett avlägset begrepp.<br><br>
 
-            Var jag här?  
-            Jag var här, men det var inget kvar.  
-            Att vara var ett avlägset begrepp.
+            Jag såg på världen genom ett fönster.<br>
+            Stjärnorna föll.<br>
+            Tiden förlorade sitt grepp.<br><br>
 
-            Jag såg på världen genom ett fönster.  
-            Stjärnorna föll.  
-            Tiden förlorade sitt grepp.
+            Jag andades och åt,<br>
+            jag gick, jag stannade.<br>
+            Men vad jag gjorde – vet jag inte.<br><br>
 
-            Jag andades och åt,  
-            jag gick, jag stannade.  
-            Men vad jag gjorde – vet jag inte.
+            Och världen rörde sig utan mig.<br>
+            Det var som om jag var<br>
+            ett avlägset eko,<br>
+            en skugga av vad som varit.<br><br>
 
-            Och världen rörde sig utan mig.  
-            Det var som om jag var  
-            ett avlägset eko,  
-            en skugga av vad som varit.
+            Jag hörde röster, men de var inte mina.<br>
+            Jag såg ansikten, men de var inte mitt.<br>
+            Och så var det.<br>
+            En evig väntan utan svar.<br><br>
 
-            Jag hörde röster, men de var inte mina.  
-            Jag såg ansikten, men de var inte mitt.  
-            Och så var det.  
-            En evig väntan utan svar.
+            Jag väntade på något.<br>
+            Jag väntade på vad?<br>
+            Var det för att jag skulle känna?<br>
+            För att jag skulle minnas?<br><br>
 
-            Jag väntade på något.  
-            Jag väntade på vad?  
-            Var det för att jag skulle känna?  
-            För att jag skulle minnas?
+            Men minnena flöt bort,<br>
+            som löv på en stilla sjö.<br>
+            De var där, men inte längre.<br><br>
 
-            Men minnena flöt bort,  
-            som löv på en stilla sjö.  
-            De var där, men inte längre.
+            Jag andades och åt.<br>
+            Jag gick, jag stannade.<br>
+            Vad jag gjorde – vet jag inte.<br><br>
 
-            Jag andades och åt.  
-            Jag gick, jag stannade.  
-            Vad jag gjorde – vet jag inte.
-
-            Himlen var där.  
+            Himlen var där.<br>
             Men var jag?
-
-        </div>
-    </div>
+        </p>
+    </main>
 
     <footer>
-        <p>© 2024 Poem by Wisława Szymborska</p>
+        <p>&copy; 2024 Dikt publicerad av Wisława Szymborska. Alla rättigheter reserverade.</p>
+        <p>Webbsida skapad med hjälp av GitHub Pages.</p>
     </footer>
 
 </body>
-
 </html>
